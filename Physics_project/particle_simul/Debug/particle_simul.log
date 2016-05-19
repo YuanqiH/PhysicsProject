@@ -1,0 +1,59 @@
+﻿Build started 07/03/2016 14:50:37.
+     1>Project "C:\personal_working\Physics\Physics_project\particle_simul\particle_simul.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>c:\personal_working\physics\physics_project\particle_simul\aabb.hpp(176): warning C4244: 'argument' : conversion from 'double' to 'const float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\aabb.hpp(190): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\aabb.hpp(194): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(27): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(28): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(29): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(30): warning C4305: 'initializing' : truncation from 'double' to 'const float'
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(118): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(119): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(120): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(128): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(129): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(130): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(131): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(133): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(134): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(135): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(137): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(138): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(139): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(467): warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(473): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(474): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(475): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(515): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(557): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(786): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\rigibody.hpp(793): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\main.cpp(63): warning C4305: 'initializing' : truncation from 'double' to 'float'
+     1>c:\personal_working\physics\physics_project\particle_simul\main.cpp(177): warning C4244: '-=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\main.cpp(301): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\main.cpp(302): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\main.cpp(307): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\main.cpp(308): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\main.cpp(410): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>c:\personal_working\physics\physics_project\particle_simul\gjk.hpp(435): warning C4715: 'GJK::EPAcheck' : not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\personal_working\Physics\Physics_project\Debug\particle_simul.exe" /INCREMENTAL /NOLOGO SOIL.lib DevIL.lib assimp.lib glew32.lib opengl32.lib glfw3.lib glfw3dll.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\personal_working\Physics\Physics_project\Debug\particle_simul.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\personal_working\Physics\Physics_project\Debug\particle_simul.lib" /MACHINE:X86 Debug\basicParticleGenerator.obj
+         Debug\basicParticles.obj
+         Debug\basicParticleUpdaters.obj
+         Debug\glParticleRenderer.obj
+         Debug\imgui.obj
+         Debug\imgui_demo.obj
+         Debug\imgui_draw.obj
+         Debug\imgui_impl_glfw.obj
+         Debug\main.obj
+         Debug\Shader.obj
+         Debug\ShaderManager.obj
+         particle_simul.vcxproj -> C:\personal_working\Physics\Physics_project\Debug\particle_simul.exe
+     1>Done Building Project "C:\personal_working\Physics\Physics_project\particle_simul\particle_simul.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.93
